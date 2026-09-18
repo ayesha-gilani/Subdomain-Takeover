@@ -1,4 +1,3 @@
-# Week 4 — SOC Detection & Response Playbook
 ## Subdomain Takeover Exposure — SEO Scenario
 
 ## Overview
@@ -29,7 +28,7 @@ All testing was performed using authorized simulated log samples.
 ## Project Structure
 
 ```text
-Week4-Subdomain-Takeover-SOC/
+Subdomain-Takeover/
 │
 ├── README.md
 │

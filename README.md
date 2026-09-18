@@ -1,4 +1,4 @@
-## Subdomain Takeover Exposure — SEO Scenario
+# Subdomain Takeover Exposure — SEO Scenario
 
 ## Overview
 

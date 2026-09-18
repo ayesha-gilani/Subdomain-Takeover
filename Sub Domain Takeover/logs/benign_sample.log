@@ -1,0 +1,12 @@
+Timestamp: 2026-09-17T10:20:11Z
+Event: DNS_LOOKUP
+Host: www.seoshield.local
+Record: CNAME
+Target: cdn.example-provider.com
+
+Timestamp: 2026-09-17T10:20:13Z
+Event: HTTP_RESPONSE
+Host: www.seoshield.local
+Status: 200
+Message: "OK"
+Provider: example-provider
